@@ -1,20 +1,7 @@
 
 
 /*
-
-Yuzhe Shang, Project 6, blur the dataset
-ECE 350/450 Accelerated Computing for Deep Learning
-17:00/May 08/2020
-References:
-https://github.com/csuldw/MachineLearning/blob/master/utils/data_util.py (Read and write the MNIST)
-http://www.voidcn.com/article/p-rzninoud-bbs.html (Drag data from MNIST using C++)
-https://tschmidt23.github.io/cse599i/CSE%20599%20I%20Accelerated%20Computing%20-%20Programming%20GPUs%20Lecture%203.pdf (Image Blur as 2D kernal)
-https://www.cnblogs.com/hjj-fighting/p/10429178.html (How to write the dataset to a file using C++)
-timer.h and the timing method used in 01-nbody.cu.
-01-nbody-gpu.cu
-https://blog.csdn.net/u010579901/article/details/78852879
-
-
+Accelerated Computing for Deep Learning
 */
 
 /*First part is to read the MNIST dataset*/
