@@ -1,9 +1,5 @@
 /*
-
-Yuzhe Shang, Final Project 
-ECE 350/450 Accelerated Computing for Deep Learning
-17:00/May 08/2020
-
+Accelerated Computing for Deep Learning
 
 */
 
